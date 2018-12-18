@@ -1,0 +1,11 @@
+{
+  "name": "Activiti Testing Framework Documentation",
+  "description": "Testing framework built with Protractor for Activiti",
+  "version": "0.0.1",
+  "logo": "http://activiti.org/images/activiti_logo.png",
+  "options": {
+    "linkNatives": "true",
+    "attributesEmit": "true",
+    "outdir": "./doc"
+  }
+}
